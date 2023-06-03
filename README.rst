@@ -33,9 +33,9 @@ Bugs are tracked on GitHub Issues. In case of trouble, please check there if you
 
 Maintainer
 ==========
-This module is maintained by Cybrosys Technologies.
+This module is maintained by Miig Solution.
 
-For support and more information, please visit https://www.cybrosys.com
+For support and more information, please visit https://www.miigsolution.so
 
 Further information
 ===================
