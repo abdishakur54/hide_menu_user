@@ -14,19 +14,18 @@ General Public License, Version 3 (LGPL v3).
 
 Company
 -------
-* 'Cybrosys Techno Solutions <https://cybrosys.com/>`__
+* 'Cybrosys Techno Solutions <https://www.miigsolution.so/>`__
 
 Credits
 -------
 * Developer:
-(v14) Sreerag @ Cybrosys
-(v15) Midilaj @ Cybrosys
-(v16) VISHNU KP @ Cybrosys
+(v16) Abdishakur @ Miigsolution
+
 
 
 Contacts
 --------
-* Mail Contact : odoo@cybrosys.com
+* Mail Contact : info@miigsolution.so
 
 Bug Tracker
 -----------
